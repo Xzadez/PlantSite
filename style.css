@@ -547,7 +547,7 @@ header {
   }
 
   .header__image {
-    min-height: 500px;
+    min-height: 300px;
   }
 
   .product__grid {
