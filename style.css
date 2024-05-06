@@ -523,10 +523,10 @@ header {
 
 @media (width < 1200px) {
   .header__image img:nth-child(1) {
-    max-width: 200px;
+    max-width: 230px;
   }
   .header__image img:nth-child(2) {
-    max-width: 100px;
+    max-width: 180px;
   }
   .wrapper .carousel {
     grid-auto-columns: calc((100% / 2) - 9px);
